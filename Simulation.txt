@@ -1,0 +1,2 @@
+iverilog -o calculator_sim calculator.v calculator_tb.v
+vvp calculator_sim
